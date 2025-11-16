@@ -12,8 +12,8 @@ CRON_MARK="# log-uploader (managed)"
 #############################################
 # AWS CREDENTIALS (replace with real values)
 #############################################
-export AWS_ACCESS_KEY_ID="AKIAV3ZLP6GWRN6UN34V"
-export AWS_SECRET_ACCESS_KEY="7f5oHSqPWQMxITSIm/pb1Y6Wec7yp3/LOqgox12J"
+export AWS_ACCESS_KEY_ID=""
+export AWS_SECRET_ACCESS_KEY=""
 export AWS_DEFAULT_REGION="ap-south-1"
 # export AWS_SESSION_TOKEN="YOUR_AWS_SESSION_TOKEN"   # if using temporary creds
 #############################################
